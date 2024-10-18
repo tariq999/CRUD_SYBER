@@ -1,0 +1,7 @@
+DB Name:crud_cyber
+Table Name: form
+https://visioncoder.com/crud_cyber/
+
+https://visioncoder.com/crud_cyber/form.php
+
+https://visioncoder.com/crud_cyber/login.php
