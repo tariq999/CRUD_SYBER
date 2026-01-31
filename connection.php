@@ -15,3 +15,4 @@ else{
     echo "Connection Failed".mysqli_connect_error();
 }
 ?> 
+ <h1> i chek this this</h1>
